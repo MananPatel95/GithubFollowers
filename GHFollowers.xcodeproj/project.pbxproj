@@ -51,6 +51,7 @@
 		0BFFDEED2BAFA86C008EA0AA /* GHFollowersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GHFollowersUITests.swift; sourceTree = "<group>"; };
 		0BFFDEEF2BAFA86C008EA0AA /* GHFollowersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GHFollowersUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0BFFDEFC2BAFAA32008EA0AA /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
+		0BFFDF012BB338CA008EA0AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +109,7 @@
 				0BFFDED72BAFA86C008EA0AA /* LaunchScreen.storyboard */,
 				0BFFDEDA2BAFA86C008EA0AA /* Info.plist */,
 				0BFFDED22BAFA86B008EA0AA /* GHFollowers.xcdatamodeld */,
+				0BFFDF012BB338CA008EA0AA /* README.md */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
