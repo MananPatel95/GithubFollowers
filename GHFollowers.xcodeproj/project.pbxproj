@@ -82,6 +82,7 @@
 		0BFFDEBD2BAFA86B008EA0AA = {
 			isa = PBXGroup;
 			children = (
+				0BFFDF012BB338CA008EA0AA /* README.md */,
 				0BFFDEC82BAFA86B008EA0AA /* GHFollowers */,
 				0BFFDEE22BAFA86C008EA0AA /* GHFollowersTests */,
 				0BFFDEEC2BAFA86C008EA0AA /* GHFollowersUITests */,
@@ -109,7 +110,6 @@
 				0BFFDED72BAFA86C008EA0AA /* LaunchScreen.storyboard */,
 				0BFFDEDA2BAFA86C008EA0AA /* Info.plist */,
 				0BFFDED22BAFA86B008EA0AA /* GHFollowers.xcdatamodeld */,
-				0BFFDF012BB338CA008EA0AA /* README.md */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
